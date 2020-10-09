@@ -1,4 +1,4 @@
 # tarea
-JOSE'LUIS HUISA QUISPE
+JOSE LUIS HUISA QUISPE
 
 La implementación
